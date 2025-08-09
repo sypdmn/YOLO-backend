@@ -67,7 +67,7 @@ delete from adoption_record where adopter_id = old.id;
 1. Maven坐标导入部分：
    - 需要自己导入所需的Maven坐标
    - 体验使用Maven管理项目依赖的过程
-   - 如果找不到Maven依赖，可以咨询学长
+   - 如果找不到Maven依赖，可以咨询学长学姐
 
 2. 代码实现部分：
    - 完成实体类的Lombok注解配置
